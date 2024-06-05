@@ -16,7 +16,7 @@
           ["examples/feathers.py", "github:bdbarnett/mpdisplay/examples/feathers.py"],
           ["examples/fonts.py", "github:bdbarnett/mpdisplay/examples/fonts.py"],
           ["examples/framebuf_simpletest.py", "github:bdbarnett/mpdisplay/examples/framebuf_simpletest.py"],
-          ["examples/guy.bmp", "github:bdbarnett/mpdisplay/examples/guy.bmp"],
+          ["examples/assets/guy.bmp", "github:bdbarnett/mpdisplay/examples/assets/guy.bmp"],
           ["examples/hello.py", "github:bdbarnett/mpdisplay/examples/hello.py"],
           ["examples/keypins_simpletest.py", "github:bdbarnett/mpdisplay/examples/keypins_simpletest.py"],
           ["examples/lv_touch_test.py", "github:bdbarnett/mpdisplay/examples/lv_touch_test.py"],
